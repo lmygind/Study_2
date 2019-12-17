@@ -1,6 +1,6 @@
 #Import data from csv.
 
-Study.2.MASTER <- read.csv("D:/Work backup/1. Projects/PhD/Study 2/Data/Study 2 MASTER.csv", header=FALSE)
+Study.2.MASTER <- read.csv("D:/1. Projects/PhD/Study 2/Data/Study 2 MASTER.csv", header=FALSE)
 View(Study.2.MASTER)
 
 #Defining variables. 
