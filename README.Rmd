@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- Study_2. Working title 'Is access to green space near home and early childhood education and care associated with healthy socioemotional function in pre-school aged children?'. Repositry contains analyses and will possibly also include figures, models and writeup. Data may be accessed from data owner Hayley Christian -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -15,11 +15,6 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-This is a template for a new research project. Should contains the following
-folders: [analysis](./analysis), [data](./data), [experiments](./experiments),
-[other](./other), [preprocessing](./preprocessing). Optionally, it may also 
-include a folder `models` containing modelling files, and a `writeup` folder
-containing the project writeup. 
+Repositry contains analyses and will possibly also include figures, models and writeup. Data may be accessed from data owner Hayley Christian. 
 
-If there are other resouces (e.g., OSF folders, Overleaf documents, Google docs)
-that are linked to the project, they should be listed in this document.
+The study has been preregistered on OSF; https://osf.io/3cn2b/files/.
